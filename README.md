@@ -1,0 +1,2 @@
+# aplicativo
+destinado ao app
